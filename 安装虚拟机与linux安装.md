@@ -37,6 +37,7 @@ linux镜像下载地址：http://archive.kernel.org/centos-vault/6.5/isos/x86_64
 
 
 
+
 2.3.安装linux操作系统
 选择CD/DVD,设置使用ISO镜像文件
 开启虚拟机
