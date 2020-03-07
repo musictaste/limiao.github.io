@@ -20,7 +20,7 @@ linux镜像下载地址：http://archive.kernel.org/centos-vault/6.5/isos/x86_64
 100G硬盘
 ![Image text](https://raw.githubusercontent.com/musictaste/java/master/image/1.png)
 
-
+![Image text](https://raw.githubusercontent.com/musictaste/java/master/image/3.png)
 
 
 
