@@ -2,13 +2,14 @@
 1.安装包和镜像下载
 VMWare workstation下载地址：
 https://my.vmware.com/cn/web/vmware/info/slug/desktop_end_user_computing/vmware_workstation_pro/15_0
-![Image text](https://raw.githubusercontent.com/musictaste/java/master/image/1.png)
+
 linux镜像下载地址：http://archive.kernel.org/centos-vault/6.5/isos/x86_64/
 选择CentOS-6.5-x86_64-minimal.iso  
 
 2.安装（虚拟环境）
 2.1 安装VMware,简单，点下一步就行
 2.2 VMWare workstation创建虚拟机
+
 采用“自定义”类型配置
 选择硬件兼容性：workstation 12.x
 稍后安装操作系统
@@ -17,7 +18,7 @@ linux镜像下载地址：http://archive.kernel.org/centos-vault/6.5/isos/x86_64
 虚拟机内存为：1G
 使用NAT网络
 100G硬盘
-
+![Image text](https://raw.githubusercontent.com/musictaste/java/master/image/1.png)
 
 
 
